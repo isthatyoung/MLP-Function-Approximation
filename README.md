@@ -15,5 +15,5 @@ $g(p) = 0.1 ∗ p^2 ∗ sin(p) for −3 ≤ p ≤ 3 $
 
 ## Result
 |Neurons |Learning rate | Epochs of training| 
-|------|----------|
+|------|----------|---|
 |100|0.01|1000|
